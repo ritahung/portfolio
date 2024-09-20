@@ -18,4 +18,4 @@ As a Manager at Mega International Commercial Bank, I help businesses solve comp
 Created a real-time dashboard using Tableau
 
 ## Contact
-Reach out via email at(ritahung0830@gmail.com)
+Reach out via email at[ritahung0830@gmail.com](ritahung0830@gmail.com)
